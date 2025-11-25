@@ -1,52 +1,64 @@
+# Privacy Policy for YuCart
 
-# **Privacy Policy for YuCart**
-
-This privacy policy governs your use of the software application **YuCart** ("Application") for mobile devices that was created by **Malabar Trading Company**.
-
-## **Data We Collect**
-
-The Application may collect certain types of personally identifiable information, including but not limited to:
-
-- **Personal Data**: While using our Application, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, and phone number.
-
-- **Usage Data**: We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").
-
-- **Camera**: We use your device's camera for scanning QR codes.
-
-- **Location**: We collect your location data to track the location of our staff.
-
-- **Storage**: We access your device's storage to save and share reports.
-
-- **Mobile Data**: We use your mobile data to connect the app to our servers.
-
-- **Mobile Information**: We collect mobile information like IMEI No. to secure user login.
-
-## **How We Use Your Information**
-
-We use the collected data for various purposes:
-
-- To provide and maintain our Service
-- To notify you about changes to our Service
-- To allow you to participate in interactive features of our Service when you choose to do so
-- To provide customer support
-- To gather analysis or valuable information so that we can improve our Service
-- To monitor the usage of our Service
-- To detect, prevent and address technical issues
-
-## **Data Sharing**
-
-We may share your personal data with third parties under the following circumstances:
-
-- **Service Providers**: We may share your personal data with service providers that perform services on our behalf, who are prohibited from using such information for any other purposes.
-
-- **Compliance with Laws**: We may disclose your information where required to do so by law or subpoena.
-
-## **Data Retention & Deletion**
-
-We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
-
-## **Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at **itdeskmtc@gmail.com**.
+This Privacy Policy explains how the mobile application **YuCart** ("Application"), developed by **Malabar Trading Company**, handles user data.
 
 ---
+
+## 📌 Data We Collect
+
+The Application **does not collect any personal data** from the user.
+
+However, the Application may request access to certain device features solely for functional purposes:
+
+- **Camera** – Used only for scanning QR codes.
+- **Location** – Used only to track the location of staff for operational purposes.
+- **Storage** – Used only to save and share reports generated within the app.
+- **Mobile Data / Internet** – Used to connect the application to our servers for syncing and updates.
+
+No personal information is collected, stored, or transmitted through these permissions.
+
+---
+
+## 📌 How We Use These Permissions
+
+Because no personal data is collected, the permissions requested are used **strictly for functional purposes**, such as:
+
+- Enabling QR code scanning  
+- Tracking staff location (operational use only, not linked to personal identity)  
+- Saving and sharing reports  
+- Connecting to company servers for app operations  
+
+---
+
+## 📌 Data Sharing
+
+- The Application **does not share any personal data with anyone**.  
+- No personal data is transferred, sold, or disclosed to third parties.  
+- Only if legally required, operational data (not personal data) may be disclosed.
+
+---
+
+## 📌 Data Retention & Deletion
+
+Since the Application does **not** collect or store personal data:  
+- There is **no personal data to retain**, and  
+- No personal data to delete.
+
+Any operational data used by the organization is retained only as needed for business or legal compliance.
+
+---
+
+## 📌 Security
+
+Although no personal data is collected, we take reasonable measures to ensure secure app operations and server communication.
+
+---
+
+## 📌 Contact Us
+
+If you have questions about privacy while using the Application, please contact:
+
+**Email:** itdeskmtc@gmail.com
+
+---
+
